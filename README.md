@@ -65,12 +65,6 @@
 
 <div align="center">
 
-# 🧊 3D Contribution Graph
-
-<img src="./profile-3d-contrib/profile-night-view.svg" alt="3D contribution graph" width="100%" />
-
-<br/>
-
 # 📊 GitHub Activity
 
 <img src="https://ghchart.rshah.org/00bfff/ranjan-kumar-01" alt="Contribution chart" width="100%" />
