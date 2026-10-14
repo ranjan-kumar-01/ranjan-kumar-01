@@ -2,7 +2,10 @@
 
 <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f2027,50:203a43,100:00bfff&height=300&section=header&text=RANJAN%20KUMAR&fontSize=70&fontColor=ffffff&fontAlignY=40&stroke=00bfff&strokeWidth=2&desc=Aspiring%20Full-Stack%20Developer&descSize=26&descAlignY=65&animation=twinkling" alt="Ranjan Kumar banner" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00BFFF&center=true&vCenter=true&width=900&height=60&lines=Building+Modern+Web+Applications;Learning+React+%26+Node.js;Exploring+Python+%26+FastAPI;Always+Learning.+Always+Building." alt="Typing animation" />
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=0077B6&center=true&vCenter=true&width=900&height=60&lines=Building+Modern+Web+Applications;Learning+React+%26+Node.js;Exploring+Python+%26+FastAPI;Always+Learning.+Always+Building." />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00BFFF&center=true&vCenter=true&width=900&height=60&lines=Building+Modern+Web+Applications;Learning+React+%26+Node.js;Exploring+Python+%26+FastAPI;Always+Learning.+Always+Building." alt="Typing animation" />
+</picture>
 
 <br/>
 
@@ -69,19 +72,22 @@
 
 <!-- <img src="https://ghchart.rshah.org/00bfff/ranjan-kumar-01" alt="Contribution chart" width="100%" /> -->
 <!-- <img src="https://ghchart.rshah.org/2ea44f/ranjan-kumar-01" alt="Contribution chart" width="100%" /> -->
-<img src="https://raw.githubusercontent.com/ranjan-kumar-01/ranjan-kumar-01/output/github-snake-dark.svg" alt="Contribution Snake" width="100%" />
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ranjan-kumar-01/ranjan-kumar-01/output/github-snake.svg" />
+  <img src="https://raw.githubusercontent.com/ranjan-kumar-01/ranjan-kumar-01/output/github-snake-dark.svg" alt="Contribution Snake" width="100%" />
+</picture>
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com/?user=ranjan-kumar-01&theme=tokyonight&hide_border=true" alt="GitHub streak" width="100%" />
+<img src="https://streak-stats.demolab.com/?user=ranjan-kumar-01&theme=tokyonight&hide_border=true" alt="GitHub streak" width="80%" />
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=ranjan-kumar-01&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" width="100%" />
+<img src="https://github-readme-stats.vercel.app/api?username=ranjan-kumar-01&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" width="80%" />
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ranjan-kumar-01&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages" width="100%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ranjan-kumar-01&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages" width="80%" />
 
 </div>
 
