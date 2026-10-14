@@ -1,16 +1,12 @@
 <div align="center">
 
-<!-- ═══════════════════════════════════════════ -->
-<!-- HEADER BANNER — light/dark responsive -->
-<!-- ═══════════════════════════════════════════ -->
+<!-- ═══ BANNER ═══ -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=venom&color=0:0f2027,50:203a43,100:00bfff&height=300&section=header&text=RANJAN%20KUMAR&fontSize=70&fontColor=ffffff&fontAlignY=40&stroke=00bfff&strokeWidth=2&desc=Aspiring%20Full-Stack%20Developer&descSize=26&descAlignY=65&animation=twinkling" />
   <img src="https://capsule-render.vercel.app/api?type=venom&color=0:e0f7ff,50:c7f0ff,100:0077B6&height=300&section=header&text=RANJAN%20KUMAR&fontSize=70&fontColor=0f2027&fontAlignY=40&stroke=0077B6&strokeWidth=2&desc=Aspiring%20Full-Stack%20Developer&descSize=26&descAlignY=65&animation=twinkling" alt="Ranjan Kumar banner" width="100%" />
 </picture>
 
-<!-- ═══════════════════════════════════════════ -->
-<!-- TYPING ANIMATION -->
-<!-- ═══════════════════════════════════════════ -->
+<!-- ═══ TYPING ═══ -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00BFFF&center=true&vCenter=true&width=900&height=60&lines=Building+Modern+Web+Applications;Learning+React+%26+Node.js;Exploring+Python+%26+FastAPI;Always+Learning.+Always+Building." />
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=0077B6&center=true&vCenter=true&width=900&height=60&lines=Building+Modern+Web+Applications;Learning+React+%26+Node.js;Exploring+Python+%26+FastAPI;Always+Learning.+Always+Building." alt="Typing animation" />
@@ -36,8 +32,6 @@
 
 # 👨‍💻 About Me
 
-<br/>
-
 ### 🌱 Learning React.js & modern web development
 ### ⚙️ Building backend skills with Node.js, Express & FastAPI
 ### 🗄️ Working with SQL & PostgreSQL
@@ -54,29 +48,14 @@
 
 # 🛠️ Tech Stack
 
-<br/>
-
 ### Frontend
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=html,css,js,react,tailwind&perline=5&theme=dark" />
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind&perline=5&theme=light" alt="Frontend" width="500" />
-</picture>
-
-<br/><br/>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind&perline=5" alt="Frontend" />
 
 ### Backend
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=nodejs,express,python,fastapi&perline=4&theme=dark" />
-  <img src="https://skillicons.dev/icons?i=nodejs,express,python,fastapi&perline=4&theme=light" alt="Backend" width="400" />
-</picture>
-
-<br/><br/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,python,fastapi&perline=4" alt="Backend" />
 
 ### Database & Tools
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=postgres,git,github,vscode,postman&perline=5&theme=dark" />
-  <img src="https://skillicons.dev/icons?i=postgres,git,github,vscode,postman&perline=5&theme=light" alt="Tools" width="500" />
-</picture>
+<img src="https://skillicons.dev/icons?i=postgres,git,github,vscode,postman&perline=5" alt="Tools" />
 
 </div>
 
@@ -87,16 +66,6 @@
 <div align="center">
 
 # 📊 GitHub Activity
-
-<!-- ═══════════════════════════════════════════ -->
-<!-- 3D CONTRIBUTION GRAPH — light + dark -->
-<!-- ═══════════════════════════════════════════ -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ranjan-kumar-01/ranjan-kumar-01/main/profile-3d-contrib/profile-night-rainbow.svg" />
-  <img src="https://raw.githubusercontent.com/ranjan-kumar-01/ranjan-kumar-01/main/profile-3d-contrib/profile-green-animate.svg" alt="3D Contribution Graph" width="100%" />
-</picture>
-
-<br/><br/>
 
 <!-- SNAKE -->
 <picture>
@@ -166,7 +135,7 @@ High-performance backend service.
 
 ### 💙 Thanks for visiting my profile!
 
-<!-- FOOTER WAVE — light/dark responsive -->
+<!-- FOOTER -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:00bfff&height=140&section=footer" />
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:e0f7ff,50:c7f0ff,100:0077B6&height=140&section=footer" alt="Footer" width="100%" />
