@@ -1,7 +1,11 @@
 <div align="center">
 
 <!-- BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f2027,50:203a43,100:00bfff&height=300&section=header&text=RANJAN%20KUMAR&fontSize=70&fontColor=ffffff&fontAlignY=40&stroke=00bfff&strokeWidth=2&desc=Aspiring%20Full-Stack%20Developer&descSize=26&descAlignY=65&animation=twinkling" alt="Ranjan Kumar banner" width="100%" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=venom&color=0:0f2027,50:203a43,100:00bfff&height=300&section=header&text=RANJAN%20KUMAR&fontSize=70&fontColor=ffffff&fontAlignY=40&stroke=00bfff&strokeWidth=2&desc=Aspiring%20Full-Stack%20Developer&descSize=26&descAlignY=65&animation=twinkling" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:e0f7ff,50:c7f0ff,100:0077B6&height=300&section=header&text=RANJAN%20KUMAR&fontSize=70&fontColor=0f2027&fontAlignY=40&stroke=0077B6&strokeWidth=2&desc=Aspiring%20Full-Stack%20Developer&descSize=26&descAlignY=65&animation=twinkling" alt="Ranjan Kumar banner" width="100%" />
+</picture>
+
 
 <!-- TYPING -->
 <picture>
@@ -42,7 +46,6 @@
 <br/>
 
 ---
-
 <div align="center">
 
 # 🛠️ Tech Stack
@@ -50,30 +53,19 @@
 <br/>
 
 ### Frontend
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=html,css,js,react,tailwind&perline=5&theme=light" />
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind&perline=5&theme=dark" alt="Frontend" width="500" />
-</picture>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind&perline=5" alt="Frontend" />
 
 <br/><br/>
 
 ### Backend
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=nodejs,express,python,fastapi&perline=4&theme=light" />
-  <img src="https://skillicons.dev/icons?i=nodejs,express,python,fastapi&perline=4&theme=dark" alt="Backend" width="400" />
-</picture>
+<img src="https://skillicons.dev/icons?i=nodejs,express,python,fastapi&perline=4" alt="Backend" />
 
 <br/><br/>
 
 ### Database & Tools
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=postgres,git,github,vscode,postman&perline=5&theme=light" />
-  <img src="https://skillicons.dev/icons?i=postgres,git,github,vscode,postman&perline=5&theme=dark" alt="Tools" width="500" />
-</picture>
+<img src="https://skillicons.dev/icons?i=postgres,git,github,vscode,postman&perline=5" alt="Tools" />
 
 </div>
-
-<br/>
 
 ---
 
