@@ -29,15 +29,40 @@
 
 <div align="center">
 
-# 👨‍💻 About Me
+## 👨‍💻 About Me
 
 <br/>
 
-#### 🌱 Learning React.js & modern web development
-#### ⚙️ Building backend skills with Node.js, Express & FastAPI
-#### 🗄️ Working with SQL & PostgreSQL
-###s 🧩 Sharpening problem solving with DSA
-#### 🎯 Goal: become a job-ready developer
+<table align="center" width="100%">
+  <tr>
+    <td align="center" valign="middle" width="33%">
+      <h3>🌱</h3>
+      <h4>Learning React.js &<br/>modern web development</h4>
+    </td>
+    <td align="center" valign="middle" width="33%">
+      <h3>⚙️</h3>
+      <h4>Building backend skills with<br/>Node.js, Express & FastAPI</h4>
+    </td>
+    <td align="center" valign="middle" width="33%">
+      <h3>🗄️</h3>
+      <h4>Working with<br/>SQL & PostgreSQL</h4>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" valign="middle" width="33%">
+      <h3>🧩</h3>
+      <h4>Sharpening problem<br/>solving with DSA</h4>
+    </td>
+    <td align="center" valign="middle" width="33%">
+      <h3>🎯</h3>
+      <h4>Goal: become a<br/>job-ready developer</h4>
+    </td>
+    <td align="center" valign="middle" width="33%">
+      <h3>🚀</h3>
+      <h4>Always learning,<br/>always building</h4>
+    </td>
+  </tr>
+</table>
 
 </div>
 
