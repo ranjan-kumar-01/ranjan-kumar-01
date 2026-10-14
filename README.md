@@ -17,7 +17,7 @@
 
 <br/><br/>
 
-<<table align="center">
+<table align="center">
   <tr>
     <td align="center" width="200">
       <img src="https://img.shields.io/github/followers/ranjan-kumar-01?style=for-the-badge&logo=github&color=0e75b6&label=Followers" alt="Followers" height="36" />
@@ -164,20 +164,20 @@
     <td align="center" valign="top" width="33%">
       <h2><a href="https://github.com/ranjan-kumar-01/your-repo">⚛️ Project One</a></h2>
       <h4>A responsive web app with a clean, modern UI.</h4>
-      <img src="https://img.shields.io/badge/-React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" height="36" />
-      <img src="https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" height="36" />
+      <img src="https://img.shields.io/badge/-React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" height="30" />
+      <img src="https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" height="30" />
     </td>
     <td align="center" valign="top" width="33%">
       <h2><a href="https://github.com/ranjan-kumar-01/your-repo">🔌 Project Two</a></h2>
       <h4>REST API with authentication and database integration.</h4>
-      <img src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" height="36" />
-      <img src="https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" height="36" />
+      <img src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" height="30" />
+      <img src="https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" height="30" />
     </td>
     <td align="center" valign="top" width="33%">
       <h2><a href="https://github.com/ranjan-kumar-01/your-repo">🐍 Project Three</a></h2>
       <h4>High-performance backend service.</h4>
-      <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" height="36" />
-      <img src="https://img.shields.io/badge/-FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" height="36" />
+      <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" height="36l0" />
+      <img src="https://img.shields.io/badge/-FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" height="30" />
     </td>
   </tr>
 </table>
