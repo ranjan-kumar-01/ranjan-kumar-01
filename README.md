@@ -120,28 +120,37 @@
 
 <div align="center">
 
-# 🚀 Featured Projects
-
-</div>
+## 🚀 Featured Projects
 
 <!-- TODO: Replace with your real projects -->
 
-### ⚛️ [Project One](https://github.com/ranjan-kumar-01/your-repo)
-A responsive web app with a clean, modern UI.
+<table align="center" width="100%">
+  <tr>
+    <td align="center" valign="top" width="33%">
+      <h3><a href="https://github.com/ranjan-kumar-01/your-repo">⚛️ Project One</a></h3>
+      <p>A responsive web app with a clean, modern UI.</p>
+      <img src="https://img.shields.io/badge/-React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+      <img src="https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" />
+    </td>
+    <td align="center" valign="top" width="33%">
+      <h3><a href="https://github.com/ranjan-kumar-01/your-repo">🔌 Project Two</a></h3>
+      <p>REST API with authentication and database integration.</p>
+      <img src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+      <img src="https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+    </td>
+    <td align="center" valign="top" width="33%">
+      <h3><a href="https://github.com/ranjan-kumar-01/your-repo">🐍 Project Three</a></h3>
+      <p>High-performance backend service.</p>
+      <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+      <img src="https://img.shields.io/badge/-FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
+    </td>
+  </tr>
+</table>
 
-![React](https://img.shields.io/badge/-React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-### 🔌 [Project Two](https://github.com/ranjan-kumar-01/your-repo)
-REST API with authentication and database integration.
-
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-
-### 🐍 [Project Three](https://github.com/ranjan-kumar-01/your-repo)
-High-performance backend service.
-
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+</div>
 
 <br/>
+
 
 ---
 
