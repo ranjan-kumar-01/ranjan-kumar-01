@@ -51,17 +51,17 @@
 <br/>
 
 ### Frontend
-<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind&perline=5" alt="Frontend" width="80%" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind&perline=6" alt="Frontend" width="70%" />
 
 <br/><br/>
 
 ### Backend
-<img src="https://skillicons.dev/icons?i=nodejs,express,python,fastapi&perline=4" alt="Backend"  width="80% />
+<img src="https://skillicons.dev/icons?i=nodejs,express,python,fastapi,postgres,mongodb&perline=6" alt="Backend" width="70%" />
 
 <br/><br/>
 
 ### Database & Tools
-<img src="https://skillicons.dev/icons?i=postgres,git,github,vscode,postman&perline=5" alt="Tools"  width="80% />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker,linux&perline=6" alt="Tools" width="70%" />
 
 </div>
 
@@ -70,9 +70,10 @@
 <div align="center">
 
 # 📊 GitHub Activity
-### 🐍 Contribution Snake
 
 <br/>
+
+### 🐍 Contribution Snake
 
 <picture>
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ranjan-kumar-01/ranjan-kumar-01/output/github-snake.svg" />
@@ -92,24 +93,24 @@
 
 <!-- STREAK -->
 <picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=ranjan-kumar-01&theme=default&hide_border=false&border_radius=20" />
-  <img src="https://streak-stats.demolab.com/?user=ranjan-kumar-01&theme=tokyonight&hide_border=false&border_radius=20" alt="GitHub streak" width="100%" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=ranjan-kumar-01&theme=tokyonight&hide_border=false&border_radius=20" />
+  <img src="https://streak-stats.demolab.com/?user=ranjan-kumar-01&theme=default&hide_border=false&border_radius=20" alt="GitHub streak" width="100%" />
 </picture>
 
 <br/><br/>
 
 <!-- STATS -->
 <picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=ranjan-kumar-01&show_icons=true&theme=default&hide_border=false&border_color=d0d7de&title_color=0077B6&icon_color=0077B6&count_private=true&card_width=800&border_radius=20" />
-  <img src="https://github-readme-stats.vercel.app/api?username=ranjan-kumar-01&show_icons=true&theme=tokyonight&hide_border=false&count_private=true&card_width=800&border_radius=20" alt="GitHub stats" width="100%" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=ranjan-kumar-01&show_icons=true&count_private=true&theme=tokyonight&hide_border=false&border_radius=20&card_width=495" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ranjan-kumar-01&show_icons=true&count_private=true&theme=default&hide_border=false&border_color=d0d7de&title_color=0077B6&icon_color=0077B6&border_radius=20&card_width=495" alt="GitHub stats" width="100%" />
 </picture>
 
 <br/><br/>
 
 <!-- TOP LANGUAGES -->
 <picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ranjan-kumar-01&layout=compact&theme=default&hide_border=false&border_color=d0d7de&title_color=0077B6&langs_count=8&card_width=800&border_radius=20" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ranjan-kumar-01&layout=compact&theme=tokyonight&hide_border=false&langs_count=8&card_width=800&border_radius=20" alt="Top languages" width="100%" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ranjan-kumar-01&layout=compact&langs_count=8&theme=tokyonight&hide_border=false&border_radius=20&card_width=495" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ranjan-kumar-01&layout=compact&langs_count=8&theme=default&hide_border=false&border_color=d0d7de&title_color=0077B6&border_radius=20&card_width=495" alt="Top languages" width="100%" />
 </picture>
 
 </div>
@@ -127,22 +128,22 @@
 <table align="center" width="100%">
   <tr>
     <td align="center" valign="top" width="33%">
-      <h3><a href="https://github.com/ranjan-kumar-01/your-repo">⚛️ Project One</a></h3>
-      <p>A responsive web app with a clean, modern UI.</p>
-      <img src="https://img.shields.io/badge/-React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-      <img src="https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" />
+      <h2><a href="https://github.com/ranjan-kumar-01/your-repo">⚛️ Project One</a></h2>
+      <h4>A responsive web app with a clean, modern UI.</h4>
+      <img src="https://img.shields.io/badge/-React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" height="36" />
+      <img src="https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" height="36" />
     </td>
     <td align="center" valign="top" width="33%">
-      <h3><a href="https://github.com/ranjan-kumar-01/your-repo">🔌 Project Two</a></h3>
-      <p>REST API with authentication and database integration.</p>
-      <img src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-      <img src="https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+      <h2><a href="https://github.com/ranjan-kumar-01/your-repo">🔌 Project Two</a></h2>
+      <h4>REST API with authentication and database integration.</h4>
+      <img src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" height="36" />
+      <img src="https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" height="36" />
     </td>
     <td align="center" valign="top" width="33%">
-      <h3><a href="https://github.com/ranjan-kumar-01/your-repo">🐍 Project Three</a></h3>
-      <p>High-performance backend service.</p>
-      <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-      <img src="https://img.shields.io/badge/-FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
+      <h2><a href="https://github.com/ranjan-kumar-01/your-repo">🐍 Project Three</a></h2>
+      <h4>High-performance backend service.</h4>
+      <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" height="36" />
+      <img src="https://img.shields.io/badge/-FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" height="36" />
     </td>
   </tr>
 </table>
@@ -150,7 +151,6 @@
 </div>
 
 <br/>
-
 
 ---
 
