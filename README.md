@@ -1,10 +1,8 @@
 <div align="center">
 
 <!-- BANNER -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=venom&color=0:0f2027,50:203a43,100:00bfff&height=300&section=header&text=RANJAN%20KUMAR&fontSize=70&fontColor=ffffff&fontAlignY=40&stroke=00bfff&strokeWidth=2&desc=Aspiring%20Full-Stack%20Developer&descSize=26&descAlignY=65&animation=twinkling" />
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:e0f7ff,50:c7f0ff,100:0077B6&height=300&section=header&text=RANJAN%20KUMAR&fontSize=70&fontColor=0f2027&fontAlignY=40&stroke=0077B6&strokeWidth=2&desc=Aspiring%20Full-Stack%20Developer&descSize=26&descAlignY=65&animation=twinkling" alt="Ranjan Kumar banner" width="100%" />
-</picture>
+<!-- BANNER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:00bfff&height=300&section=header&text=RANJAN%20KUMAR&fontSize=70&fontColor=ffffff&fontAlignY=40&desc=Aspiring%20Full-Stack%20Developer&descSize=26&descAlignY=62&animation=twinkling" alt="Ranjan Kumar banner" width="100%" />
 
 
 <!-- TYPING -->
@@ -75,18 +73,20 @@
 
 <br/>
 
-### 🧊 3D Contribution Graph
 <picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ranjan-kumar-01/ranjan-kumar-01/main/profile-3d-contrib/profile-green.svg" />
-  <img src="https://raw.githubusercontent.com/ranjan-kumar-01/ranjan-kumar-01/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph" width="100%" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ranjan-kumar-01/ranjan-kumar-01/output/github-snake.svg" />
+  <img src="https://raw.githubusercontent.com/ranjan-kumar-01/ranjan-kumar-01/output/github-snake-dark.svg" alt="Contribution Snake" width="100%" />
 </picture>
 
 <br/><br/>
 
 ### 🐍 Contribution Snake
+
+### 🧊 3D Contribution Graph
+
 <picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ranjan-kumar-01/ranjan-kumar-01/output/github-snake.svg" />
-  <img src="https://raw.githubusercontent.com/ranjan-kumar-01/ranjan-kumar-01/output/github-snake-dark.svg" alt="Contribution Snake" width="100%" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ranjan-kumar-01/ranjan-kumar-01/main/profile-3d-contrib/profile-green.svg" />
+  <img src="https://raw.githubusercontent.com/ranjan-kumar-01/ranjan-kumar-01/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph" width="100%" />
 </picture>
 
 <br/><br/>
