@@ -17,10 +17,19 @@
 
 <br/><br/>
 
-<img src="https://img.shields.io/github/followers/ranjan-kumar-01?style=for-the-badge&logo=github&color=0e75b6&label=Followers" alt="Followers" />
-<img src="https://img.shields.io/github/stars/ranjan-kumar-01?style=for-the-badge&logo=github&color=0e75b6&label=Stars" alt="Stars" />
-<img src="https://hits.sh/github.com/ranjan-kumar-01.svg?style=for-the-badge&label=Profile%20Views&color=0e75b6" alt="Profile views" />
-
+<<table align="center">
+  <tr>
+    <td align="center" width="200">
+      <img src="https://img.shields.io/github/followers/ranjan-kumar-01?style=for-the-badge&logo=github&color=0e75b6&label=Followers" alt="Followers" height="36" />
+    </td>
+    <td align="center" width="200">
+      <img src="https://img.shields.io/github/stars/ranjan-kumar-01?style=for-the-badge&logo=github&color=0e75b6&label=Stars" alt="Stars" height="36" />
+    </td>
+    <td align="center" width="200">
+      <img src="https://hits.sh/github.com/ranjan-kumar-01.svg?style=for-the-badge&label=Profile%20Views&color=0e75b6" alt="Profile views" height="36" />
+    </td>
+  </tr>
+</table>
 </div>
 
 <br/>
