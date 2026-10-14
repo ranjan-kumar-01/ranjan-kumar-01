@@ -67,7 +67,8 @@
 
 # 📊 GitHub Activity
 
-<img src="https://ghchart.rshah.org/00bfff/ranjan-kumar-01" alt="Contribution chart" width="100%" />
+<!-- <img src="https://ghchart.rshah.org/00bfff/ranjan-kumar-01" alt="Contribution chart" width="100%" /> -->
+<img src="https://ghchart.rshah.org/2ea44f/ranjan-kumar-01" alt="Contribution chart" width="100%" />
 
 <br/><br/>
 
