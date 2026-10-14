@@ -51,17 +51,17 @@
 <br/>
 
 ### Frontend
-<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind&perline=5" alt="Frontend" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind&perline=5" alt="Frontend" width="80%" />
 
 <br/><br/>
 
 ### Backend
-<img src="https://skillicons.dev/icons?i=nodejs,express,python,fastapi&perline=4" alt="Backend" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,python,fastapi&perline=4" alt="Backend"  width="80% />
 
 <br/><br/>
 
 ### Database & Tools
-<img src="https://skillicons.dev/icons?i=postgres,git,github,vscode,postman&perline=5" alt="Tools" />
+<img src="https://skillicons.dev/icons?i=postgres,git,github,vscode,postman&perline=5" alt="Tools"  width="80% />
 
 </div>
 
@@ -159,13 +159,13 @@
 # 🤝 Let's Connect
 
 <a href="https://github.com/ranjan-kumar-01"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-<!-- <a href="https://www.linkedin.com/in/YOUR-USERNAME"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a> -->
-<!-- <a href="mailto:you@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a> -->
+<a href="https://www.linkedin.com/in/ranjan-kumar-dev01"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+<a href="mailto:ranjankumaratimi@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 
 <br/><br/>
 
-### 💙 Thanks for visiting my profile!
+### 💖 Thanks for visiting my profile! 🙏
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:00bfff&height=140&section=footer" alt="Footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:00bfff&height=200&section=footer" alt="Footer" width="100%" />
 
 </div>
