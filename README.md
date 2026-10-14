@@ -159,29 +159,32 @@
 
 <!-- TODO: Replace with your real projects -->
 
-### ⚛️ [Project One](https://github.com/ranjan-kumar-01/your-repo)
-A responsive web app with a clean, modern UI.
-
-<img src="https://img.shields.io/badge/-React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" height="30" />
-<img src="https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" height="30" />
-
-<br/>
-
-### 🔌 [Project Two](https://github.com/ranjan-kumar-01/your-repo)
-REST API with authentication and database integration.
-
-<img src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" height="30" />
-<img src="https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" height="30" />
-
-<br/>
-
-### 🐍 [Project Three](https://github.com/ranjan-kumar-01/your-repo)
-High-performance backend service.
-
-<img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" height="30" />
-<img src="https://img.shields.io/badge/-FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" height="30" />
+<table align="center" width="100%">
+  <tr>
+    <td align="center" valign="top" width="33%">
+      <h3>⚛️<br/><a href="https://github.com/ranjan-kumar-01/your-repo">Project One</a></h3>
+      <sub>A responsive web app<br/>with a clean, modern UI</sub>
+      <br/><br/>
+      <img src="https://skillicons.dev/icons?i=react,css&perline=2" alt="React, CSS" height="40" />
+    </td>
+    <td align="center" valign="top" width="33%">
+      <h3>🔌<br/><a href="https://github.com/ranjan-kumar-01/your-repo">Project Two</a></h3>
+      <sub>REST API with auth and<br/>database integration</sub>
+      <br/><br/>
+      <img src="https://skillicons.dev/icons?i=nodejs,postgres&perline=2" alt="Node.js, PostgreSQL" height="40" />
+    </td>
+    <td align="center" valign="top" width="33%">
+      <h3>🐍<br/><a href="https://github.com/ranjan-kumar-01/your-repo">Project Three</a></h3>
+      <sub>High-performance<br/>backend service</sub>
+      <br/><br/>
+      <img src="https://skillicons.dev/icons?i=python,fastapi&perline=2" alt="Python, FastAPI" height="40" />
+    </td>
+  </tr>
+</table>
 
 </div>
+
+<br/>
 
 
 <br/>
