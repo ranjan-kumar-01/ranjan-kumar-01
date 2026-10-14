@@ -79,19 +79,21 @@
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com/?user=ranjan-kumar-01&theme=tokyonight&hide_border=true" alt="GitHub streak" width="80%" />
+<img src="https://streak-stats.demolab.com/?user=ranjan-kumar-01&theme=tokyonight&hide_border=false&card_width=800&card_height=200&border_radius=20" alt="GitHub streak" width="100%" />
 
-<br/>
+<br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=ranjan-kumar-01&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" width="80%" />
+<img src="https://github-readme-stats.vercel.app/api?username=ranjan-kumar-01&show_icons=true&theme=tokyonight&hide_border=false&count_private=true&card_width=800&card_height=200&border_radius=20" alt="GitHub stats" width="100%" />
 
-<br/>
+<br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ranjan-kumar-01&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages" width="80%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ranjan-kumar-01&layout=compact&theme=tokyonight&hide_border=false&langs_count=8&card_width=800&card_height=200&border_radius=20" alt="Top languages" width="100%" />
 
 </div>
 
 <br/>
+
+---
 
 ---
 
