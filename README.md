@@ -70,6 +70,7 @@
 <div align="center">
 
 # 📊 GitHub Activity
+### 🐍 Contribution Snake
 
 <br/>
 
@@ -79,8 +80,6 @@
 </picture>
 
 <br/><br/>
-
-### 🐍 Contribution Snake
 
 ### 🧊 3D Contribution Graph
 
