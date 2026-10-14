@@ -72,22 +72,27 @@
 
 <!-- <img src="https://ghchart.rshah.org/00bfff/ranjan-kumar-01" alt="Contribution chart" width="100%" /> -->
 <!-- <img src="https://ghchart.rshah.org/2ea44f/ranjan-kumar-01" alt="Contribution chart" width="100%" /> -->
+
 <picture>
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ranjan-kumar-01/ranjan-kumar-01/output/github-snake.svg" />
   <img src="https://raw.githubusercontent.com/ranjan-kumar-01/ranjan-kumar-01/output/github-snake-dark.svg" alt="Contribution Snake" width="100%" />
 </picture>
 
 <br/><br/>
-
-<img src="https://streak-stats.demolab.com/?user=ranjan-kumar-01&theme=tokyonight&hide_border=false&card_width=800&card_height=200&border_radius=20" alt="GitHub streak" width="100%" />
-
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=ranjan-kumar-01&theme=default&hide_border=false&card_width=800&border_radius=20" />
+  <img src="https://streak-stats.demolab.com/?user=ranjan-kumar-01&theme=tokyonight&hide_border=false&card_width=800&border_radius=20" alt="GitHub streak" width="100%" />
+</picture>
 <br/><br/>
-
-<img src="https://github-readme-stats.vercel.app/api?username=ranjan-kumar-01&show_icons=true&theme=tokyonight&hide_border=false&count_private=true&card_width=800&card_height=200&border_radius=20" alt="GitHub stats" width="100%" />
-
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=ranjan-kumar-01&show_icons=true&theme=default&hide_border=false&count_private=true&card_width=800&border_radius=20" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ranjan-kumar-01&show_icons=true&theme=tokyonight&hide_border=false&count_private=true&card_width=800&border_radius=20" alt="GitHub stats" width="100%" />
+</picture>
 <br/><br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ranjan-kumar-01&layout=compact&theme=tokyonight&hide_border=false&langs_count=8&card_width=800&card_height=200&border_radius=20" alt="Top languages" width="100%" />
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ranjan-kumar-01&layout=compact&theme=default&hide_border=false&langs_count=8&card_width=800&border_radius=20" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ranjan-kumar-01&layout=compact&theme=tokyonight&hide_border=false&langs_count=8&card_width=800&border_radius=20" alt="Top languages" width="100%" />
+</picture>
 
 </div>
 
