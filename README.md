@@ -163,20 +163,33 @@
   <tr>
     <td align="center" valign="top" width="33%">
       <h3>⚛️<br/><a href="https://github.com/ranjan-kumar-01/your-repo">Project One</a></h3>
-      <sub>A responsive web app<br/>with a clean, modern UI</sub>
-      <br/><br/>
-      <img src="https://skillicons.dev/icons?i=react,css&perline=2" alt="React, CSS" height="40" />
     </td>
     <td align="center" valign="top" width="33%">
       <h3>🔌<br/><a href="https://github.com/ranjan-kumar-01/your-repo">Project Two</a></h3>
-      <sub>REST API with auth and<br/>database integration</sub>
-      <br/><br/>
-      <img src="https://skillicons.dev/icons?i=nodejs,postgres&perline=2" alt="Node.js, PostgreSQL" height="40" />
     </td>
     <td align="center" valign="top" width="33%">
       <h3>🐍<br/><a href="https://github.com/ranjan-kumar-01/your-repo">Project Three</a></h3>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" valign="top" width="33%">
+      <sub>A responsive web app<br/>with a clean, modern UI</sub>
+    </td>
+    <td align="center" valign="top" width="33%">
+      <sub>REST API with auth and<br/>database integration</sub>
+    </td>
+    <td align="center" valign="top" width="33%">
       <sub>High-performance<br/>backend service</sub>
-      <br/><br/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" valign="middle" width="33%">
+      <img src="https://skillicons.dev/icons?i=react,css&perline=2" alt="React, CSS" height="40" />
+    </td>
+    <td align="center" valign="middle" width="33%">
+      <img src="https://skillicons.dev/icons?i=nodejs,postgres&perline=2" alt="Node.js, PostgreSQL" height="40" />
+    </td>
+    <td align="center" valign="middle" width="33%">
       <img src="https://skillicons.dev/icons?i=python,fastapi&perline=2" alt="Python, FastAPI" height="40" />
     </td>
   </tr>
