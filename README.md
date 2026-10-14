@@ -162,9 +162,9 @@
 <table align="center" width="100%">
   <thead>
     <tr>
-      <th align="center" width="25%">Project</th>
-      <th align="center" width="45%">Description</th>
-      <th align="center" width="30%">Tech Stack</th>
+      <th align="center" width="25%"><h3>Project</h3></th>
+      <th align="center" width="50%"><h3>Description</h3></th>
+      <th align="center" width="25%"><h3>Tech Stack</h3></th>
     </tr>
   </thead>
   <tbody>
@@ -174,10 +174,10 @@
         <h3>⚛️ <a href="https://github.com/ranjan-kumar-01/your-repo">Project One</a></h3>
       </td>
       <td align="center" valign="middle">
-        A responsive web app with a clean, modern UI
+        <h4>A responsive web app with a clean, modern UI</h4>
       </td>
       <td align="center" valign="middle">
-        <img src="https://skillicons.dev/icons?i=react,css&perline=2" alt="React, CSS" height="40" />
+        <img src="https://skillicons.dev/icons?i=react,tailwind&perline=2" alt="React, Tailwind CSS" height="48" />
       </td>
     </tr>
     <!-- PROJECT 2 -->
@@ -186,10 +186,10 @@
         <h3>🔌 <a href="https://github.com/ranjan-kumar-01/your-repo">Project Two</a></h3>
       </td>
       <td align="center" valign="middle">
-        REST API with authentication and database integration
+        <h4>REST API with authentication and database integration</h4>
       </td>
       <td align="center" valign="middle">
-        <img src="https://skillicons.dev/icons?i=nodejs,postgres&perline=2" alt="Node.js, PostgreSQL" height="40" />
+        <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb&perline=3" alt="Node.js, Express.js, MongoDb" height="48" />
       </td>
     </tr>
     <!-- PROJECT 3 -->
@@ -198,10 +198,10 @@
         <h3>🐍 <a href="https://github.com/ranjan-kumar-01/your-repo">Project Three</a></h3>
       </td>
       <td align="center" valign="middle">
-        High-performance backend service
+        <h4>High-performance backend service</h4>
       </td>
       <td align="center" valign="middle">
-        <img src="https://skillicons.dev/icons?i=python,fastapi&perline=2" alt="Python, FastAPI" height="40" />
+        <img src="https://skillicons.dev/icons?i=python,fastapi,postgres&perline=3" alt="Python, FastAPI, PostgreSQL" height="48" />
       </td>
     </tr>
 
@@ -209,6 +209,8 @@
 </table>
 
 </div>
+
+<br/>
 
 <br/>
 
