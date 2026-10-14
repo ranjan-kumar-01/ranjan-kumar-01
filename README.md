@@ -33,11 +33,11 @@
 
 <br/>
 
-### 🌱 Learning React.js & modern web development
-### ⚙️ Building backend skills with Node.js, Express & FastAPI
-### 🗄️ Working with SQL & PostgreSQL
-### 🧩 Sharpening problem solving with DSA
-### 🎯 Goal: become a job-ready developer
+#### 🌱 Learning React.js & modern web development
+#### ⚙️ Building backend skills with Node.js, Express & FastAPI
+#### 🗄️ Working with SQL & PostgreSQL
+###s 🧩 Sharpening problem solving with DSA
+#### 🎯 Goal: become a job-ready developer
 
 </div>
 
