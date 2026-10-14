@@ -1,10 +1,19 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f2027,50:203a43,100:00bfff&height=300&section=header&text=RANJAN%20KUMAR&fontSize=70&fontColor=ffffff&fontAlignY=40&stroke=00bfff&strokeWidth=2&desc=Aspiring%20Full-Stack%20Developer&descSize=26&descAlignY=65&animation=twinkling" alt="Ranjan Kumar banner" width="100%" />
-
+<!-- ═══════════════════════════════════════════ -->
+<!-- HEADER BANNER — light/dark responsive -->
+<!-- ═══════════════════════════════════════════ -->
 <picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=0077B6&center=true&vCenter=true&width=900&height=60&lines=Building+Modern+Web+Applications;Learning+React+%26+Node.js;Exploring+Python+%26+FastAPI;Always+Learning.+Always+Building." />
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00BFFF&center=true&vCenter=true&width=900&height=60&lines=Building+Modern+Web+Applications;Learning+React+%26+Node.js;Exploring+Python+%26+FastAPI;Always+Learning.+Always+Building." alt="Typing animation" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=venom&color=0:0f2027,50:203a43,100:00bfff&height=300&section=header&text=RANJAN%20KUMAR&fontSize=70&fontColor=ffffff&fontAlignY=40&stroke=00bfff&strokeWidth=2&desc=Aspiring%20Full-Stack%20Developer&descSize=26&descAlignY=65&animation=twinkling" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:e0f7ff,50:c7f0ff,100:0077B6&height=300&section=header&text=RANJAN%20KUMAR&fontSize=70&fontColor=0f2027&fontAlignY=40&stroke=0077B6&strokeWidth=2&desc=Aspiring%20Full-Stack%20Developer&descSize=26&descAlignY=65&animation=twinkling" alt="Ranjan Kumar banner" width="100%" />
+</picture>
+
+<!-- ═══════════════════════════════════════════ -->
+<!-- TYPING ANIMATION -->
+<!-- ═══════════════════════════════════════════ -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00BFFF&center=true&vCenter=true&width=900&height=60&lines=Building+Modern+Web+Applications;Learning+React+%26+Node.js;Exploring+Python+%26+FastAPI;Always+Learning.+Always+Building." />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=0077B6&center=true&vCenter=true&width=900&height=60&lines=Building+Modern+Web+Applications;Learning+React+%26+Node.js;Exploring+Python+%26+FastAPI;Always+Learning.+Always+Building." alt="Typing animation" />
 </picture>
 
 <br/>
@@ -48,17 +57,26 @@
 <br/>
 
 ### Frontend
-<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind&perline=5" alt="Frontend" width="500" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=html,css,js,react,tailwind&perline=5&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind&perline=5&theme=light" alt="Frontend" width="500" />
+</picture>
 
 <br/><br/>
 
 ### Backend
-<img src="https://skillicons.dev/icons?i=nodejs,express,python,fastapi&perline=4" alt="Backend" width="400" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=nodejs,express,python,fastapi&perline=4&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,python,fastapi&perline=4&theme=light" alt="Backend" width="400" />
+</picture>
 
 <br/><br/>
 
 ### Database & Tools
-<img src="https://skillicons.dev/icons?i=postgres,git,github,vscode,postman&perline=5" alt="Tools" width="500" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=postgres,git,github,vscode,postman&perline=5&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=postgres,git,github,vscode,postman&perline=5&theme=light" alt="Tools" width="500" />
+</picture>
 
 </div>
 
@@ -70,6 +88,17 @@
 
 # 📊 GitHub Activity
 
+<!-- ═══════════════════════════════════════════ -->
+<!-- 3D CONTRIBUTION GRAPH — light + dark -->
+<!-- ═══════════════════════════════════════════ -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ranjan-kumar-01/ranjan-kumar-01/main/profile-3d-contrib/profile-night-rainbow.svg" />
+  <img src="https://raw.githubusercontent.com/ranjan-kumar-01/ranjan-kumar-01/main/profile-3d-contrib/profile-green-animate.svg" alt="3D Contribution Graph" width="100%" />
+</picture>
+
+<br/><br/>
+
+<!-- SNAKE -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ranjan-kumar-01/ranjan-kumar-01/output/github-snake-dark.svg" />
   <img src="https://raw.githubusercontent.com/ranjan-kumar-01/ranjan-kumar-01/output/github-snake.svg" alt="Contribution Snake" width="100%" />
@@ -77,6 +106,7 @@
 
 <br/><br/>
 
+<!-- STREAK -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=ranjan-kumar-01&theme=tokyonight&hide_border=false&card_width=800&border_radius=20" />
   <img src="https://streak-stats.demolab.com/?user=ranjan-kumar-01&theme=default&hide_border=false&card_width=800&border_radius=20" alt="GitHub streak" width="100%" />
@@ -84,6 +114,7 @@
 
 <br/><br/>
 
+<!-- STATS -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=ranjan-kumar-01&show_icons=true&theme=tokyonight&hide_border=false&count_private=true&card_width=800&border_radius=20" />
   <img src="https://github-readme-stats.vercel.app/api?username=ranjan-kumar-01&show_icons=true&theme=default&hide_border=false&count_private=true&card_width=800&border_radius=20" alt="GitHub stats" width="100%" />
@@ -91,6 +122,7 @@
 
 <br/><br/>
 
+<!-- TOP LANGS -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ranjan-kumar-01&layout=compact&theme=tokyonight&hide_border=false&langs_count=8&card_width=800&border_radius=20" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ranjan-kumar-01&layout=compact&theme=default&hide_border=false&langs_count=8&card_width=800&border_radius=20" alt="Top languages" width="100%" />
@@ -102,15 +134,11 @@
 
 ---
 
----
-
 <div align="center">
 
 # 🚀 Featured Projects
 
 </div>
-
-<!-- TODO: Replace with your real projects -->
 
 ### ⚛️ [Project One](https://github.com/ranjan-kumar-01/your-repo)
 A responsive web app with a clean, modern UI.
@@ -133,13 +161,15 @@ High-performance backend service.
 # 🤝 Let's Connect
 
 <a href="https://github.com/ranjan-kumar-01"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-<!-- <a href="https://www.linkedin.com/in/YOUR-USERNAME"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a> -->
-<!-- <a href="mailto:you@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a> -->
 
 <br/><br/>
 
 ### 💙 Thanks for visiting my profile!
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:00bfff&height=140&section=footer" alt="Footer" width="100%" />
+<!-- FOOTER WAVE — light/dark responsive -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:00bfff&height=140&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:e0f7ff,50:c7f0ff,100:0077B6&height=140&section=footer" alt="Footer" width="100%" />
+</picture>
 
 </div>
